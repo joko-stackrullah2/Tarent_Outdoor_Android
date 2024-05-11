@@ -1,0 +1,16 @@
+MainActivity.java
+path : tarent_outdoor-main\android\app\src\main\java\com\tarent_outdoor
+
+style.xml
+path : tarent_outdoor-main\android\app\src\main\res\values
+
+index.js
+path : tarent_outdoor-main\node_modules\react-native\index.js
+
+SplashScreen.js
+path : tarent_outdoor-main\assets\screen\SplashScreen.js
+
+build.gradle
+path : tarent_outdoor-main\android\app\build.gradle
+Line 95 : def enableSeparateBuildPerCPUArchitecture = true
+Line 212 : universalApk true  // If true, also generate a universal APK
